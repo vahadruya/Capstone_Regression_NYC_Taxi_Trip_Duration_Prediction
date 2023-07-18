@@ -107,7 +107,6 @@ For handling and manipulating data
 
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas&logoColor=white&link=https://pandas.pydata.org" alt="Pandas" width="84" height="25"></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-4d77cf?style=flat-square&logo=Numpy&logoColor=white&link=https://numpy.org/" alt="Numpy" width="84" height="25"></a>
-geopandas
 
 For Visualisation
 
@@ -115,15 +114,15 @@ For Visualisation
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-7db0bc?style=flat-square&logo=seaborn&logoColor=white&link=https://seaborn.pydata.org/" alt="Seaborn" width="65" height="25"></a>
 <a href="https://ipython.org/" target="_blank"><img src="https://img.shields.io/badge/IPython-5781b3?style=flat-square&logo=ipython&logoColor=white&link=https://ipython.org/" alt="IPython" width="65" height="25"></a>
 <a href="https://graphviz.org/" target="_blank"><img src="https://img.shields.io/badge/Graphviz-9be1f5?style=flat-square&logo=graphviz&logoColor=white&link=https://graphviz.org/" alt="Graphviz" width="70" height="25"></a>
-folium
+<a href="https://geopandas.org/en/stable/" target="_blank"><img src="https://img.shields.io/badge/GeoPandas-0f9c58?style=flat-square&logo=geopandas&logoColor=white&link=https://geopandas.org/en/stable/" alt="GeoPandas" width="85" height="25"></a>
+<a href="https://pypi.org/project/folium/" target="_blank"><img src="https://img.shields.io/badge/folium-00aa54?style=flat-square&logo=folium&logoColor=white&link=https://pypi.org/project/folium/" alt="folium" width="75" height="25"></a>
 
 For Hypothesis testing, Pre-processing and Model training
 
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank"><img src="https://img.shields.io/badge/Statsmodels-3f51b5?style=flat-square&logo=statsmodels&logoColor=white&link=https://www.statsmodels.org/stable/index.html" alt="Statsmodels" width="98" height="25"></a>
-<a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-0053a1?style=flat-square&logo=scipy&logoColor=white&link=https://scipy.org/" alt="SciPy" width="75" height="25"></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/Scikit%20Learn-f79939?style=flat-square&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/" alt="Scikit Learn" width="115" height="25"></a>
-ELI5, holidays
-
+<a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-0053a1?style=flat-square&logo=scipy&logoColor=white&link=https://scipy.org/" alt="SciPy" width="70" height="25"></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/Scikit%20Learn-f79939?style=flat-square&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/" alt="Scikit Learn" width="110" height="25"></a>
+<a href="https://eli5.readthedocs.io/en/latest/#" target="_blank"><img src="https://img.shields.io/badge/ELI5-ff9c1a?style=flat-square&logo=eli5&logoColor=white&link=https://eli5.readthedocs.io/en/latest/#" alt="ELI5" width="40" height="25"></a>
 
 <div align = "right">    
   <a href="#nyc-taxi-trip-duration-prediction">(back to top)</a>
@@ -133,7 +132,7 @@ ELI5, holidays
 
 <a href="https://www.linkedin.com/in/aditya-a-p-507b1b239/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0078b7?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/" alt="Linkedin" width="85" height="25"></a>
 <a href="mailto:apaditya96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="70" height="25"></a>
-
+  
 <div align = "right">    
   <a href="#nyc-taxi-trip-duration-prediction">(back to top)</a>
 </div>
